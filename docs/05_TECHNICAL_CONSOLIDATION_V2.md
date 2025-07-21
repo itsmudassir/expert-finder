@@ -1,4 +1,8 @@
-# Expert Speaker Data Consolidation Guide V2
+# 05. Enhanced Data Consolidation Guide (V2)
+
+[← Previous: Technical Consolidation V1](04_TECHNICAL_CONSOLIDATION_V1.md) | [Next: Industry Normalization →](06_INDUSTRY_NORMALIZATION_UPDATE.md)
+
+---
 
 ## Overview
 This guide documents the enhanced consolidation of expert speaker profiles from multiple MongoDB databases, including the new llm_parsed_db, with advanced expertise taxonomy normalization.

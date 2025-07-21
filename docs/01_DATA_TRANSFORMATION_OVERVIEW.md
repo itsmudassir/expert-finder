@@ -1,4 +1,8 @@
-# Expert Speaker Data Transformation Guide
+# 01. Expert Speaker Data Transformation Overview
+
+[← Back to Start](00_START_HERE.md) | [Next: Normalization Analysis →](02_NORMALIZATION_ANALYSIS.md)
+
+---
 
 ## Executive Summary
 
@@ -288,3 +292,7 @@ The transformation creates a powerful, unified speaker database that:
 - **Enables Innovation**: Build sophisticated matching algorithms
 
 This foundation enables building next-generation speaker discovery and booking platforms with advanced features like AI-powered recommendations, expertise trend analysis, and automated speaker-event matching.
+
+---
+
+[← Back to Start](00_START_HERE.md) | [Next: Normalization Analysis →](02_NORMALIZATION_ANALYSIS.md)

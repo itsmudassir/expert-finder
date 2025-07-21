@@ -1,4 +1,8 @@
-# Expert Speaker Data Consolidation Guide
+# 04. Technical Data Consolidation Guide (V1)
+
+[← Previous: Implementation Guide](03_NORMALIZATION_IMPLEMENTATION.md) | [Next: Technical Consolidation V2 →](05_TECHNICAL_CONSOLIDATION_V2.md)
+
+---
 
 ## Overview
 This guide documents the consolidation of 9 different MongoDB databases containing expert speaker profiles from various speaker bureau websites into a single, unified data structure.
