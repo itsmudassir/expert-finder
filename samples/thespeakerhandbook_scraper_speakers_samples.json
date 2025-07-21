@@ -1,0 +1,169 @@
+[
+  {
+    "_id": "6874eefa26a2e74b39bdb384",
+    "speaker_id": "41192",
+    "display_name": "Jaco van Gass",
+    "engagement_types": [
+      "speaking"
+    ],
+    "event_type": [
+      "inperson",
+      "virtual"
+    ],
+    "first_name": "Jaco",
+    "gender": "male",
+    "home_country": "gb",
+    "image_url": "https://thespeakerhandbook.com/wp-content/uploads/prf_pho/Jaco-van-Gass-speaker-300x300.jpg",
+    "languages": [
+      "en_GB"
+    ],
+    "last_name": "van Gass",
+    "membership": "1",
+    "notability": [
+      "adventurer-explorer",
+      "olympic-athlete"
+    ],
+    "profile_scraped": true,
+    "profile_url": "https://thespeakerhandbook.com/speaker/jaco-van-gass",
+    "scraped_at": "2025-07-16T07:08:43.363000",
+    "strapline": "Adventurer, Motivational Speaker, World & Paralympic Champion Para-Cyclist and a World Record holder",
+    "topics": [
+      "mindfulness-resilience",
+      "motivation-and-inspiration"
+    ]
+  },
+  {
+    "_id": "6874eefa26a2e74b39bdb385",
+    "speaker_id": "41068",
+    "display_name": "Greg Rutherford",
+    "engagement_types": [
+      "event-hosting",
+      "moderating-and-emcee",
+      "speaking"
+    ],
+    "event_type": [],
+    "first_name": "Greg",
+    "gender": "male",
+    "home_country": "gb",
+    "image_url": "https://thespeakerhandbook.com/wp-content/uploads/prf_pho/Greg-Rutherford-speaker-300x300.jpg",
+    "languages": [
+      "en_GB"
+    ],
+    "last_name": "Rutherford",
+    "membership": "1",
+    "notability": [
+      "media-personality",
+      "olympic-athlete",
+      "sports-personality"
+    ],
+    "profile_scraped": true,
+    "profile_url": "https://thespeakerhandbook.com/speaker/greg-rutherford",
+    "scraped_at": "2025-07-16T07:08:43.363000",
+    "strapline": "Olympic champion, TV favourite, and inspiring speaker redefining resilience and reinvention",
+    "topics": [
+      "leadership",
+      "motivation-and-inspiration",
+      "peak-performance"
+    ]
+  },
+  {
+    "_id": "6874eefa26a2e74b39bdb386",
+    "speaker_id": "41011",
+    "display_name": "Karen Eber",
+    "engagement_types": [
+      "speaking"
+    ],
+    "event_type": [
+      "inperson",
+      "virtual"
+    ],
+    "first_name": "Karen",
+    "gender": "female",
+    "home_country": "us",
+    "image_url": "https://thespeakerhandbook.com/wp-content/uploads/prf_pho/Karen-Eber-speaker-300x300.jpg",
+    "languages": [
+      "en_GB"
+    ],
+    "last_name": "Eber",
+    "membership": "1",
+    "notability": [
+      "author",
+      "celebrity",
+      "tedx-speaker"
+    ],
+    "profile_scraped": true,
+    "profile_url": "https://thespeakerhandbook.com/speaker/karen-eber",
+    "scraped_at": "2025-07-16T07:08:43.363000",
+    "strapline": "Award-winning Author, Keynote and TED Speaker, Leadership Development Whisperer, Culture Shaper",
+    "topics": [
+      "communication-skills",
+      "leadership",
+      "motivation-and-inspiration"
+    ]
+  },
+  {
+    "_id": "6874eefa26a2e74b39bdb387",
+    "speaker_id": "41006",
+    "display_name": "Susi O'Neill",
+    "engagement_types": [
+      "panel-participation",
+      "speaking"
+    ],
+    "event_type": [
+      "inperson",
+      "virtual"
+    ],
+    "first_name": "Susi",
+    "gender": "female",
+    "home_country": "gb",
+    "image_url": "https://thespeakerhandbook.com/wp-content/uploads/prf_pho/WIB_SM_0210_6529-LowSq-300x300.jpg",
+    "languages": [
+      "en_GB"
+    ],
+    "last_name": "O'Neill",
+    "membership": "1",
+    "notability": [
+      "business-leader"
+    ],
+    "profile_scraped": true,
+    "profile_url": "https://thespeakerhandbook.com/speaker/susi-oneill-2",
+    "scraped_at": "2025-07-16T07:08:43.363000",
+    "strapline": "AI and frontier technologies for business",
+    "topics": [
+      "emerging-technologies",
+      "technology-ai"
+    ]
+  },
+  {
+    "_id": "6874eefa26a2e74b39bdb388",
+    "speaker_id": "40979",
+    "display_name": "Sonny Kalar",
+    "engagement_types": [
+      "coaching",
+      "speaking"
+    ],
+    "event_type": [],
+    "first_name": "Sonny",
+    "gender": "male",
+    "home_country": "gb",
+    "image_url": "https://thespeakerhandbook.com/wp-content/uploads/prf_pho/SonnyKalar-300x300.png",
+    "languages": [
+      "en_GB"
+    ],
+    "last_name": "Kalar",
+    "membership": "1",
+    "notability": [
+      "social-impact-leader"
+    ],
+    "profile_scraped": true,
+    "profile_url": "https://thespeakerhandbook.com/speaker/sonny-kalar",
+    "scraped_at": "2025-07-16T07:08:43.363000",
+    "strapline": "Survivor of 587 CRP Levels and Unbreakable Through Adversity",
+    "topics": [
+      "crisis-leadership",
+      "mental-health-workplace",
+      "mindfulness-resilience",
+      "people-culture"
+    ]
+  }
+]

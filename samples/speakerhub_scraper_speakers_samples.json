@@ -1,0 +1,213 @@
+[
+  {
+    "_id": "68723e0026a2e74b39baa7b2",
+    "uid": "83869",
+    "available_regions": [
+      "Global"
+    ],
+    "bio_summary": "I seek to bring hearts and minds together, fuelling inspiration through collective wisdom.",
+    "city": "Tarnaveni",
+    "company": "My Design Tomorrow SRL",
+    "country": "Romania",
+    "event_types": [
+      "Conference (Full-day Event)",
+      "Workshop (3+ hour event)",
+      "Session (1-2 hour event)",
+      "Moderator",
+      "Webinar (Virtual event)",
+      "School (incl. charity)",
+      "Meetup",
+      "Panel",
+      "Certificate Program",
+      "Emcee"
+    ],
+    "first_name": "Diana",
+    "job_title": "Speaker | Business Coach | CEO",
+    "languages": [
+      "English",
+      "French",
+      "Romanian"
+    ],
+    "last_name": "Popa",
+    "name": "Diana Popa",
+    "profile_picture": "https://speakerhub.com/sites/default/files/styles/speaker/public/user/profile_picture/2022/01/13/diana-popa.png?itok=RUMSmgrK",
+    "profile_url": "https://speakerhub.com/speaker/diana-popa",
+    "scraped_at": "2025-07-12T11:00:32.499420",
+    "speaker_type": "Public speaker",
+    "state": null,
+    "topics": [
+      "Mindset",
+      "Leadership",
+      "Interviewing"
+    ]
+  },
+  {
+    "_id": "68723e0026a2e74b39baa7b3",
+    "uid": "54089",
+    "available_regions": [
+      "North America"
+    ],
+    "bio_summary": "20+ years of success in starting and running a 7-figure business. Life-changing energy and passion.",
+    "city": "Newport Beach",
+    "company": "Angie Wisdom Coaching & Consulting",
+    "country": "United States",
+    "event_types": [
+      "Conference (Full-day Event)",
+      "Workshop (3+ hour event)",
+      "Session (1-2 hour event)",
+      "Moderator",
+      "Webinar (Virtual event)",
+      "School (incl. charity)",
+      "Meetup",
+      "Panel",
+      "Certificate Program",
+      "Emcee"
+    ],
+    "first_name": "Angie",
+    "job_title": "Certified Life & Business Coach",
+    "languages": [
+      "English"
+    ],
+    "last_name": "Wisdom",
+    "name": "Angie Wisdom",
+    "profile_picture": "https://speakerhub.com/sites/default/files/styles/speaker/public/user/profile_picture/2019/12/07/angie-wisdom.jpeg?itok=MhOCcZn4",
+    "profile_url": "https://speakerhub.com/speaker/angie-wisdom-0",
+    "scraped_at": "2025-07-17T06:39:25.733371",
+    "speaker_type": "Public speaker",
+    "state": "California",
+    "topics": [
+      "Achieving and Surpassing Goals",
+      "Achieving goals",
+      "Beyond Success. What Makes Human Life Meaningful?"
+    ]
+  },
+  {
+    "_id": "68723e0026a2e74b39baa7b4",
+    "uid": "5343",
+    "available_regions": [
+      "North America",
+      "Central Asia",
+      "South-East Asia",
+      "Europe",
+      "Australia & New Zealand"
+    ],
+    "bio_summary": "Pam rocks the stage by engaging participants through her passion, enthusiasm and high energy.",
+    "city": null,
+    "company": "Pam Paquet  and Associates",
+    "country": "Canada",
+    "event_types": [
+      "Conference (Full-day Event)",
+      "Workshop (3+ hour event)",
+      "Session (1-2 hour event)",
+      "Moderator",
+      "Webinar (Virtual event)",
+      "School (incl. charity)",
+      "Meetup",
+      "Panel",
+      "Certificate Program",
+      "Emcee"
+    ],
+    "first_name": "Pam",
+    "job_title": "Chief Change Officer",
+    "languages": [
+      "English"
+    ],
+    "last_name": "Paquet",
+    "name": "Pam Paquet",
+    "profile_picture": "https://speakerhub.com/sites/default/files/styles/speaker/public/user/profile_picture/2018/12/19/pam-paquet.jpg?itok=42KIwaQC",
+    "profile_url": "https://speakerhub.com/speaker/pam-paquet",
+    "scraped_at": "2025-07-17T07:36:51.383073",
+    "speaker_type": "Trainer and instructor",
+    "state": null,
+    "topics": [
+      "psychology of people",
+      "bad bosses",
+      "healthy employees",
+      "Communication",
+      "Collaboration",
+      "Cooperation"
+    ]
+  },
+  {
+    "_id": "68723e0026a2e74b39baa7b5",
+    "uid": "4095",
+    "available_regions": [
+      "Global"
+    ],
+    "bio_summary": "My evangelism trains/coach others to self-brand on LinkedIn and tell WHY they do what they do.",
+    "city": "nationwide",
+    "company": "connect2collaborate",
+    "country": "United States",
+    "event_types": [
+      "Conference (Full-day Event)",
+      "Workshop (3+ hour event)",
+      "Session (1-2 hour event)",
+      "Moderator",
+      "Webinar (Virtual event)",
+      "School (incl. charity)",
+      "Meetup",
+      "Panel",
+      "Certificate Program",
+      "Emcee"
+    ],
+    "first_name": "Marc W.",
+    "job_title": "Managing Partner",
+    "languages": [
+      "English"
+    ],
+    "last_name": "Halpert",
+    "name": "Marc W. Halpert",
+    "profile_picture": "https://speakerhub.com/sites/default/files/styles/speaker/public/user/profile_picture/2018/12/19/marc-w-halpert.jpg?itok=hofjgJqG",
+    "profile_url": "https://speakerhub.com/speaker/marc-w-halpert",
+    "scraped_at": "2025-07-17T06:37:19.827268",
+    "speaker_type": "Trainer and instructor",
+    "state": null,
+    "topics": [
+      "LinkedIn",
+      "Personal Branding",
+      "Social Media Engagement",
+      "Self-branding",
+      "Express Yourself",
+      "author"
+    ]
+  },
+  {
+    "_id": "68723e0026a2e74b39baa7b6",
+    "uid": "80196",
+    "available_regions": [],
+    "bio_summary": "Experienced professional vocalist. Happy to be hired for Weddings, Tributes & Singing Lessons",
+    "city": "London",
+    "company": null,
+    "country": "Worldwide",
+    "event_types": [
+      "Conference (Full-day Event)",
+      "Workshop (3+ hour event)",
+      "Session (1-2 hour event)",
+      "Moderator",
+      "Webinar (Virtual event)",
+      "School (incl. charity)",
+      "Meetup",
+      "Panel",
+      "Certificate Program",
+      "Emcee"
+    ],
+    "first_name": "Emily",
+    "job_title": null,
+    "languages": [],
+    "last_name": "Reed",
+    "name": "Emily Reed",
+    "profile_picture": "https://speakerhub.com/sites/default/files/styles/speaker/public/user/profile_picture/2021/10/13/emily-reed.jpg?itok=JVtTiERS",
+    "profile_url": "https://speakerhub.com/speaker/emily-reed",
+    "scraped_at": "2025-07-17T06:34:10.464045",
+    "speaker_type": "Public speaker",
+    "state": null,
+    "topics": [
+      "event professionals",
+      "Music",
+      "Entertainer",
+      "Singing",
+      "vocalist",
+      "Entertainement"
+    ]
+  }
+]

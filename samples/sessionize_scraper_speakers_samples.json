@@ -1,0 +1,96 @@
+[
+  {
+    "_id": "68710e5926a2e74b39b7d368",
+    "name": "Serg Masis",
+    "username": "smasis",
+    "url": "https://sessionize.com/smasis",
+    "href": "/smasis",
+    "tagline": "Principal AI Scientist, Syngenta \u25cf Bestselling Author of ML/AI books",
+    "location": "Raleigh, North Carolina, United States",
+    "events_count": "16 published events",
+    "sessions_count": "6 published sessions",
+    "category_slug": "agriculture-food-forestry",
+    "discovered_at": "2025-07-11T13:14:39.451000",
+    "categories": [
+      "agriculture-food-forestry",
+      "physical-life-sciences",
+      "region-country"
+    ],
+    "last_updated": "2025-07-11T13:34:44.755000"
+  },
+  {
+    "_id": "68710e5926a2e74b39b7d36a",
+    "name": "Abela\u00efd Soilihi",
+    "username": "Abelaid",
+    "url": "https://sessionize.com/Abelaid",
+    "href": "/Abelaid",
+    "tagline": "Tajiri Farm - CEO et Co-fondateur",
+    "location": "Douala, Cameroon",
+    "events_count": null,
+    "sessions_count": null,
+    "category_slug": "agriculture-food-forestry",
+    "discovered_at": "2025-07-11T13:14:39.452000",
+    "categories": [
+      "agriculture-food-forestry",
+      "energy-and-basic-resources",
+      "environment-and-cleantech"
+    ],
+    "last_updated": "2025-07-11T13:26:08.436000"
+  },
+  {
+    "_id": "68710e5926a2e74b39b7d36c",
+    "name": "Abdulakeem Yusuf Ademola",
+    "username": "abdulakeem-yusuf",
+    "url": "https://sessionize.com/abdulakeem-yusuf",
+    "href": "/abdulakeem-yusuf",
+    "tagline": "Pristine Research and Development Consult Limited",
+    "location": "Ibadan, Nigeria",
+    "events_count": null,
+    "sessions_count": null,
+    "category_slug": "agriculture-food-forestry",
+    "discovered_at": "2025-07-11T13:14:39.452000",
+    "categories": [
+      "agriculture-food-forestry",
+      "consumer-goods-services"
+    ],
+    "last_updated": "2025-07-11T13:20:56.731000"
+  },
+  {
+    "_id": "68710e5926a2e74b39b7d36e",
+    "name": "Ryan Bergman",
+    "username": "ryan-bergman",
+    "url": "https://sessionize.com/ryan-bergman",
+    "href": "/ryan-bergman",
+    "tagline": "Principal Engineer: John Deere Intelligent Solutions Group",
+    "location": "Des Moines, Iowa, United States",
+    "events_count": null,
+    "sessions_count": null,
+    "category_slug": "arts",
+    "discovered_at": "2025-07-11T13:15:34.370000",
+    "categories": [
+      "agriculture-food-forestry",
+      "arts",
+      "energy-and-basic-resources"
+    ],
+    "last_updated": "2025-07-11T13:21:38.867000"
+  },
+  {
+    "_id": "68710e5926a2e74b39b7d370",
+    "name": "Canberk Gen\u00e7",
+    "username": "canberk-genc",
+    "url": "https://sessionize.com/canberk-genc",
+    "href": "/canberk-genc",
+    "tagline": "Change and Education Programs in Rural PM",
+    "location": "Madrid, Spain",
+    "events_count": "2 published events",
+    "sessions_count": null,
+    "category_slug": "agriculture-food-forestry",
+    "discovered_at": "2025-07-11T13:14:39.453000",
+    "categories": [
+      "agriculture-food-forestry",
+      "environment-and-cleantech",
+      "government-social-sector-education"
+    ],
+    "last_updated": "2025-07-11T13:27:45.493000"
+  }
+]

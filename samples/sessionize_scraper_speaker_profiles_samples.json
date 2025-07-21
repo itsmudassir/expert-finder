@@ -1,0 +1,487 @@
+[
+  {
+    "_id": "687119d226a2e74b39b9c993",
+    "username": "smasis",
+    "basic_info": {
+      "name": "Serg Masis",
+      "username": "smasis",
+      "url": "https://sessionize.com/smasis",
+      "tagline": "Principal AI Scientist, Syngenta \u25cf Bestselling Author of ML/AI books",
+      "bio": "Serg Mas\u00eds has been at the confluence of the internet, application development, and analytics for the last two decades. Currently, he's an Agronomic Data Scientist at Syngenta, a leading agribusiness company with a mission to improve global food security. Before that role, he co-founded a search engine startup, incubated by Harvard Innovation Labs, that combined the power of cloud computing and machine learning with principles in decision-making science to expose users to new places and events efficiently. Whether it pertains to leisure activities, plant diseases, or customer lifetime value, Serg is passionate about providing the often-missing link between data and decision-making. He wrote the bestselling book \"Interpretable Machine Learning with Python\" and is currently working on a new book titled \"DIY AI\" for Addison-Wesley for a broader audience of curious developers, makers, and hackers.",
+      "location": "Raleigh, North Carolina, United States",
+      "profile_picture": "https://sessionize.com/image/fff3-400o400o2-J4kNm179xYqxBaL9SW6iB8.png"
+    },
+    "professional_info": {
+      "expertise_areas": [
+        "Agriculture, Food & Forestry",
+        "Information & Communications Technology",
+        "Physical & Life Sciences",
+        "Region & Country"
+      ],
+      "topics": [
+        "Machine Leaning",
+        "Machine Learning & AI",
+        "Machine Learning and Artificial Intelligence",
+        "Machine Learning and AI",
+        "Azure Machine Learning",
+        "Applied Machine Learning",
+        "Artificial Intelligence (AI) and Machine Learning",
+        "Artificial Intelligence and machine learning",
+        "BigData and Machine Learning",
+        "Big Data Machine Learning AI and Analytics",
+        "Artificial Intelligence and Machine Learning for Cybersecurity",
+        "AI & Machine Learning",
+        "python",
+        "Machine Learning Engineering",
+        "Azure machine learning service",
+        "Responsible AI",
+        "Ethical AI",
+        "generative ai",
+        "GenAI",
+        "Big Data",
+        "Data Science",
+        "Data Science & AI",
+        "Analytics",
+        "Technology",
+        "Technical Leadership",
+        "Technical Product Leadership",
+        "Technology Innovation",
+        "Technology Startups",
+        "Technological Innovation",
+        "Technology Strategy",
+        "Information Technology",
+        "Emerging Technologies",
+        "Emerging Technology",
+        "Responsible AI Principles",
+        "Quality Assurance",
+        "Predictive Analytics",
+        "Explainable AI",
+        "AI and Customer Experience",
+        "AI and Agile",
+        "edge ai",
+        "Large Language Models",
+        "LLMOps",
+        "LLMs",
+        "AWS Data & AI",
+        "aws sagemaker",
+        "Applied Generative AI",
+        "\u200b\u200b\u200b\u200b\u200b\u200b\u200bThe Generative AI LLM Revolution (ChatGPT)",
+        "Software Development",
+        "AI & ML Solutions",
+        "AI Ethics",
+        "AI Bias",
+        "AI for Startups",
+        "Generative AI Use Cases",
+        "Generative AI for business",
+        "AI / Copilot",
+        "Data Science (AI/ML)",
+        "Data Science and Analytics",
+        "Data science and machine learning with Python",
+        "Data science teams"
+      ],
+      "social_links": {
+        "twitter": {
+          "url": "https://twitter.com/smasis",
+          "handle": "@smasis"
+        },
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/smasis/",
+          "label": "LinkedIn"
+        },
+        "blog": {
+          "url": "https://www.serg.ai/#blog",
+          "label": "Blog"
+        },
+        "company": {
+          "url": "https://www.serg.ai/",
+          "label": "Company"
+        }
+      }
+    },
+    "speaking_history": {
+      "sessions": [
+        {
+          "title": "QA for ML: How we can trust AI with Food Sustainability",
+          "url": "/s/smasis/qa-for-ml-how-we-can-trust-ai-with-food-sustainabi/106942",
+          "summary": "This session will explore the role of Quality Assurance (QA) in AI, drawing from its rich history and evolution to underscore its significance in designing systems that are not only efficient but also trustworthy.In conclusion, this session will offer insights into the critical role of Quality Assurance in building AI systems that are not only technologically advanced but also reliable and trustworthy. Through the lens of agricultural AI, we will explore practical examples of QA at work, paving the way for a future where AI can be embraced with confidence."
+        },
+        {
+          "title": "Beyond Code: The Essential AI Skillsets for Development Teams",
+          "url": "/s/smasis/beyond-code-the-essential-ai-skillsets-for-develop/112190",
+          "summary": "Allow me to first address the elephant in the room.AI won't take your job (not yet, anyway!).Ignore THE HYPE. Don't fear coding assistants that do the job of entire software development teams! The technology isn't there yet. As impressive as it may seem, it's too primitive to do that kind of damage. But beyond the hype, there's HOPE:- We will discuss what makes AI worthwhile so we have HOPE that there are complex problems that even the primitive AI we already have can help us with.- We will address implementation strategies so there's HOPE that we can work with its strengths and mitigate its weaknesses so that it frees us from mundane tasks and only focus on those tasks that drive innovation.- And how humans-in-the-loop can be AI's biggest asset. Therefore, there's HOPE that humans and AI working together can improve business outcomes!It will not end software development; instead, it will transform it. And not in how the media narrative has led us to believe, which is through simply generating code. Beyond code, there's AI-assisted ideation, project management, data analysis, collaboration, and much more. The last portion of this session will be a ROADMAP focussing on many examples of how development teams can leverage the technology. And in particular, how software developers can create custom solutions.Lastly, the session will offer strategies for teams to upskill in AI, including engaging in online courses and workshops, contributing to open-source AI projects, and keeping abreast of the latest research and tools. This proactive approach is crucial for developers and all team members, ensuring they remain competitive and innovative in an increasingly AI-centric world."
+        },
+        {
+          "title": "DIY AI: Facial Recognition from Scratch",
+          "url": "/s/smasis/diy-ai-facial-recognition-from-scratch/90377",
+          "summary": "Facial recognition systems are everywhere. Of course, it's where you would expect it, such as airports, border crossings, and government offices. However, it's also in some public surveillance cameras, all over social media, embedded in smart home solutions, and even in your phone. Have you ever wondered how facial recognition systems work?In this hands-on session, we will build a facial recognition system from scratch using open-source technologies and publically available pre-trained models. We will create a Javascript web app that uses Tensorflow lite to get facial landmarks (nose, mouth, eyes, chin, etc.) with pre-trained models for the client side. For the server side, we will create a Python API that uses another pre-trained model to generate unique facial descriptors with facial landmarks and compare it against a vector database of faces. The javascript web app connects with the Python API to determine whose face it is. However, to appease any privacy concerns, we will also demonstrate other ways of building a system without relying on server-side components. And during the tutorial, participants can optionally enter their faces into the face database and have the biometrics removed at the end of the tutorial. The goal is that developers should be confidently able to apply what they learned to their projects and learn more in general about facial recognition, vector databases, and machine learning with Javascript.Lesson Plan- Lesson 1: The Javascript Web App We will learn how to turn on the camera in a web browser, locate the face, and capture facial landmarks (nose, mouth, eyes, chin, etc.) for every frame.- Lesson 2: The Python API & Vector Database Here we will create an API that can receive any facial landmarks and leverage another deep learning model to create a facial descriptor that it can store in a vector database or use to compare and find the closest match in the database.- Lesson 3: Tying it all together From the web app, when a face is found, send a \"Find Closest Match\" request to the server. Then display the name of the person that is the closest match on the screen.- Bonus lesson: Local prediction and examples of use cases. With Python code, we will examine how to make all the machine learning predictions on the local device. And other use cases for facial detection and recognition systems.Learning Objectives- How to make Facial Detection and Recognition systems, and the theory and use cases behind them- How to leverage Mediapipe and Dlib open-source models for facial recognition tasks both in Python and Javascript- How to populate and search Vector Databases, and the theory and potential use cases behind them- How to use TensorFlow Lite and make a client-side application in Javascript Some programming experience in any language is a prerequisite, and some Python or Javascript experience would be helpful. Instructions to install Python, clone a repository, and create a Python environment will be provided, but it will be easier if they know how to do this and come prepared for it."
+        },
+        {
+          "title": "Outsmarting AI: Understanding, Preventing, and Defending Against Adversarial Attacks",
+          "url": "/s/smasis/outsmarting-ai-understanding-preventing-and-defend/90376",
+          "summary": "Artificial Intelligence has revolutionized numerous fields, yet its vulnerability to manipulations poses a significant challenge. Deceptively simple alterations can lead a model to make glaringly incorrect predictions, a phenomenon known as an adversarial attack.In this session, we will dive deep into the world of adversarial attacks, exploring how they function and why AI systems fall victim to them. We'll scrutinize various forms of attacks, unpacking their methodologies and implications. Understanding these techniques is key to fortifying our AI systems against potential threats.Having examined the problem, we'll then turn our attention to solutions. We will introduce and explain two robust defense methods.Finally, we will demonstrate how to evaluate the robustness of AI models against adversarial attacks. By assessing model performance under adversarial conditions, we can gauge the effectiveness of our defense strategies and fine-tune them for improved protection.By the end of this session, participants will have gained a comprehensive understanding of adversarial attacks, learned effective defense strategies, and been equipped with techniques to evaluate model robustness."
+        },
+        {
+          "title": "Composing with Code: A Step-by-Step Guide to AI Music Generation",
+          "url": "/s/smasis/composing-with-code-a-step-by-step-guide-to-ai-mus/90371",
+          "summary": "Have you ever been fascinated by the seemingly magical ability of artificial intelligence to generate creative, dynamic music? Have you found yourself curious about the mechanisms behind this intriguing technology? In this comprehensive session, we delve deep into the world of AI-powered music creation, unraveling the mystery of how machines can emulate the creativity usually attributed to human musicians.In this hands-on tutorial, after a brief introduction to the theory of generative AI for audio, we will introduce you to several cutting-edge, open-source tools and pre-trained models for audio generation. Then, we will demonstrate how to harness these tools' power to generate your unique compositions from scratch.The code shown is in Python, and we will start with a simple example and build on it each time, adding a little bit of complexity from text-conditional generation to melody-conditional generation to audio-continuation and audio-inpainting. Join us as we demystify the process of AI music creation and turn this cutting-edge technology into an accessible reality!Lesson Plan- Lesson 1: With Python, we will learn how to use text-conditional generation to generate some music based on a description (also known as a prompt).- Lesson 2: What if we have a melody we'd like to use? Then, we can provide an audio clip with a melody and use melody-conditional generation.- Lesson 3: How about we know how the music starts but want ideas of how to continue? That's when audio-continuation would be helpful to take an existing clip and fill in what comes afterward.- Bonus lesson: Tying it together, take some whistling and a random prompt, and leverage melody-conditional generation and audio-continuation to make a song.Learning Objectives- How to create audio generation systems with AI models (and for music generation in particular), and the theory and use cases behind them- How to use Huggingface Hub and Pytorch checkpoints to download and load a pre-trained model.- How to leverage AudioCraft open-source models for music generation tasks."
+        },
+        {
+          "title": "Adventures in Puppy Training with A.I. and a Raspberry Pi",
+          "url": "/s/smasis/adventures-in-puppy-training-with-a.i.-and-a-raspb/58705",
+          "summary": "If you've had a puppy, you know it can be a challenging, very hands-on, endeavor to potty-train them! My puppy learned very quickly, but she would still often go slightly outside the indoor potty pad.The solution I devised for this problem involved a Raspberry Pi, camera, machine learning model, and speaker. But first I had to train the machine learning model so I pointed a camera at the pad. Then, I labeled hundreds of videos recorded with that camera and used them to train a gesture classification machine learning model to detect when she was about to go.Then I installed the model on the Raspberry Pi to detect the puppy's gestures and coordinates. Then, based on her position, a Bluetooth speaker would make cheering or scolding sounds. After that, a computer vision method would assess the puppy's accuracy. The feedback produced by the sounds over time helped improve accuracy thus training the puppy.In this session, I will discuss techniques used, lessons learned, and many cute puppy videos!"
+        }
+      ],
+      "events": [
+        {
+          "name": "\u00d8redev 2024",
+          "url": "http://oredev.org",
+          "date": "November 2024",
+          "location": "Malm\u00f6, Sweden",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "Nebraska.Code() 2024",
+          "url": "https://nebraskacode.amegala.com",
+          "date": "July 2024",
+          "location": "Lincoln, Nebraska, United States",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "ML Conference Munich",
+          "url": "https://mlconference.ai/munich/",
+          "date": "June 2023",
+          "location": "Munich, Germany",
+          "sessions": "\"Interpreting NLP Transformers\" (talk)\"Introduction to Explainable AI\" (workshop)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "Infoshare Conference",
+          "url": "https://infoshare.pl/conference/speakers/#agenda-1",
+          "date": "May 2023",
+          "location": "Gda\u0144sk, Poland",
+          "sessions": "\"DIY AI: Facial Recognition from scratch\" (talk)\"QA for AI systems\" (talk)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "Data Innovation Summit",
+          "url": "https://datainnovationsummit.com/speakers/",
+          "date": "May 2023",
+          "location": "Stockholm, Sweden",
+          "sessions": "\"QA for AI systems\" (talk)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "DeveloperWeek Europe 2023",
+          "url": "https://www.developerweek.com/europe",
+          "date": "April 2023",
+          "location": null,
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "Build Stuff 2022 Lithuania",
+          "url": "http://buildstuff.events",
+          "date": "November 2022",
+          "location": "Vilnius, Lithuania",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "Code PaLOUsa 2022",
+          "url": null,
+          "date": "August 2022",
+          "location": "Louisville, Kentucky, United States",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "WeAreDevelopers World Congress 2022",
+          "url": "https://worldcongress.dev",
+          "date": "June 2022",
+          "location": "Berlin, Germany",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "DeveloperWeek 2022",
+          "url": "https://www.developerweek.com/",
+          "date": "February 2022",
+          "location": "Oakland, California, United States",
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "ODSC West 2021",
+          "url": "https://odsc.com/california/aix-west/",
+          "date": "November 2021",
+          "location": "San Francisco, California, United States",
+          "sessions": "\"What do Planes and Machine Learning have in common? How Interpretable ML can improve decision-making\" (talk)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "Great North DevFest",
+          "url": "https://greatnorthdevfest.com/",
+          "date": "November 2021",
+          "location": null,
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "Ai4 2021 Enterprise",
+          "url": "https://ai4.io/enterprise-ai/full-agenda/",
+          "date": "November 2021",
+          "location": null,
+          "sessions": "\"Interpretable Machine Learning for Model Tuning\" (lightning talk)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "Machine Learning Prague 2021",
+          "url": "https://2021.mlprague.com/",
+          "date": "February 2021",
+          "location": "Prague, Czechia",
+          "sessions": "\"Ensuring Machine Learning Fairness with Monotonic Constraints\" (workshop)",
+          "is_sessionize_event": false
+        },
+        {
+          "name": "Strangeloop 2019",
+          "url": "https://www.thestrangeloop.com/2019/assistive-augmentation-lip-reading-with-ai.html",
+          "date": "September 2019",
+          "location": "St. Louis, Missouri, United States",
+          "sessions": "\"Assistive Augmentation: Lip Reading with AI\" (talk)",
+          "is_sessionize_event": false
+        }
+      ]
+    },
+    "metadata": {
+      "scraped_at": "2025-07-11T14:03:39.171859",
+      "source_categories": [
+        "agriculture-food-forestry",
+        "physical-life-sciences",
+        "region-country"
+      ],
+      "run_id": "20250711_140333"
+    }
+  },
+  {
+    "_id": "687119d226a2e74b39b9c995",
+    "username": "Abelaid",
+    "basic_info": {
+      "name": "Abela\u00efd Soilihi",
+      "username": "Abelaid",
+      "url": "https://sessionize.com/Abelaid",
+      "tagline": "Tajiri Farm - CEO et Co-fondateur",
+      "bio": "Apr\u00e8s une exp\u00e9rience en tant que Responsable Environnement chez Vinci, Abela\u00efd s\u2019est sp\u00e9cialis\u00e9 dans l\u2019accompagnement des entreprises vers une responsabilit\u00e9 soci\u00e9tale plus engag\u00e9e et durable. Consultant en RSE avec une forte expertise dans les enjeux \u00e9nerg\u00e9tiques, il aide les PME \u00e0 structurer et mettre en \u0153uvre des strat\u00e9gies align\u00e9es avec les attentes r\u00e9glementaires et les exigences du march\u00e9.Son approche couvre les piliers de la RSE \u2013 environnement, social et gouvernance \u2013, avec un focus particulier sur l\u2019optimisation de la performance \u00e9nerg\u00e9tique et la transition vers des mod\u00e8les plus durables. Il intervient aupr\u00e8s des d\u00e9partements RH, QSE et marketing pour int\u00e9grer des pratiques responsables et optimiser leur impact. Il propose des missions strat\u00e9giques et op\u00e9rationnelles, allant de la sensibilisation \u00e0 la mise en conformit\u00e9, en passant par l\u2019\u00e9laboration de plans d\u2019actions concrets.En parall\u00e8le, Abela\u00efd partage son savoir en tant que formateur en RSE  dans plusieurs \u00e9coles de commerce. Il enseigne aussi bien \u00e0 des \u00e9tudiants en Bachelor qu\u2019en Master, en mettant un accent particulier sur les enjeux \u00e9nerg\u00e9tiques et la transition \u00e9cologique dans le cadre de la RSE.Engag\u00e9 dans des projets \u00e0 impact, il est le fondateur de Tajiri Farm, une initiative qui promeut une agriculture durable gr\u00e2ce \u00e0 l\u2019intelligence artificielle. Ce projet vise \u00e0 optimiser les ressources, am\u00e9liorer les rendements et favoriser des pratiques agricoles responsables en s\u2019appuyant sur les nouvelles technologies.",
+      "location": "Douala, Cameroon",
+      "profile_picture": "https://sessionize.com/image/e387-400o400o2-sc98RnvQoV4gsSQRs7gShG.jpg"
+    },
+    "professional_info": {
+      "expertise_areas": [
+        "Agriculture, Food & Forestry",
+        "Business & Management",
+        "Energy & Basic Resources",
+        "Environment & Cleantech"
+      ],
+      "topics": [
+        "AI & Sustainability",
+        "Digital Sustainability",
+        "Energy"
+      ],
+      "social_links": {
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/a-soilihi/",
+          "label": "LinkedIn"
+        },
+        "company": {
+          "url": "https://www.tajiri.farm/",
+          "label": "Company"
+        }
+      }
+    },
+    "speaking_history": {
+      "sessions": [],
+      "events": []
+    },
+    "metadata": {
+      "scraped_at": "2025-07-11T14:03:40.382367",
+      "source_categories": [
+        "agriculture-food-forestry",
+        "energy-and-basic-resources",
+        "environment-and-cleantech"
+      ],
+      "run_id": "20250711_140333"
+    }
+  },
+  {
+    "_id": "687119d226a2e74b39b9c997",
+    "username": "abdulakeem-yusuf",
+    "basic_info": {
+      "name": "Abdulakeem Yusuf Ademola",
+      "username": "abdulakeem-yusuf",
+      "url": "https://sessionize.com/abdulakeem-yusuf",
+      "tagline": "Pristine Research and Development Consult Limited",
+      "bio": "Abdulakem Yusuf is a recent graduate with a degree in Agricultural Economics. He serves as a Gold Microsoft Learn Student Ambassador, Google Cloud Innovator, Postman Student Leader, GitHub Campus Expert, Friends of Figma Lead, and AWS Community Builder. Additionally, he is a Power BI Instructor at Pristine Research and Development Consult Limited and a fellow at No Hunger Bank.",
+      "location": "Ibadan, Nigeria",
+      "profile_picture": "https://sessionize.com/image/9730-400o400o2-d123b0c2-3a09-4468-a453-1dc2c63957ab.jpg"
+    },
+    "professional_info": {
+      "expertise_areas": [
+        "Agriculture, Food & Forestry",
+        "Consumer Goods & Services",
+        "Finance & Banking"
+      ],
+      "topics": [],
+      "social_links": {
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/yusuf-abdulakeem-9558a8190",
+          "label": "LinkedIn"
+        },
+        "company": {
+          "url": "https://www.afrinype.org",
+          "label": "Company"
+        }
+      }
+    },
+    "speaking_history": {
+      "sessions": [],
+      "events": []
+    },
+    "metadata": {
+      "scraped_at": "2025-07-11T14:03:41.627302",
+      "source_categories": [
+        "agriculture-food-forestry",
+        "consumer-goods-services"
+      ],
+      "run_id": "20250711_140333"
+    }
+  },
+  {
+    "_id": "687119d226a2e74b39b9c999",
+    "username": "ryan-bergman",
+    "basic_info": {
+      "name": "Ryan Bergman",
+      "username": "ryan-bergman",
+      "url": "https://sessionize.com/ryan-bergman",
+      "tagline": "Principal Engineer: John Deere Intelligent Solutions Group",
+      "bio": "Ryan is a Principal Engineer at John Deere Intelligent Solutions Group (ISG) where he oversees API standards and architecture for systems farmers depend on for connecting with experts like agronomists, dealers, other experts.",
+      "location": "Des Moines, Iowa, United States",
+      "profile_picture": "https://sessionize.com/image/69e3-400o400o2-RT9WcbRaUUEz8GrYVS131q.png"
+    },
+    "professional_info": {
+      "expertise_areas": [
+        "Agriculture, Food & Forestry",
+        "Arts",
+        "Information & Communications Technology"
+      ],
+      "topics": [
+        "XP",
+        "Application Architecture",
+        "System Design",
+        "TDD & BDD"
+      ],
+      "social_links": {
+        "twitter": {
+          "url": "https://twitter.com/ryber",
+          "handle": "@ryber"
+        },
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/ryan-bergman-3665763/",
+          "label": "LinkedIn"
+        },
+        "blog": {
+          "url": "https://ryber.github.io/",
+          "label": "Blog"
+        },
+        "company": {
+          "url": "https://www.deere.com/en/our-company/john-deere-careers/work-here/isg/",
+          "label": "Company"
+        }
+      }
+    },
+    "speaking_history": {
+      "sessions": [],
+      "events": []
+    },
+    "metadata": {
+      "scraped_at": "2025-07-11T14:03:42.843727",
+      "source_categories": [
+        "agriculture-food-forestry",
+        "arts",
+        "energy-and-basic-resources"
+      ],
+      "run_id": "20250711_140333"
+    }
+  },
+  {
+    "_id": "687119d226a2e74b39b9c99b",
+    "username": "canberk-genc",
+    "basic_info": {
+      "name": "Canberk Gen\u00e7",
+      "username": "canberk-genc",
+      "url": "https://sessionize.com/canberk-genc",
+      "tagline": "Change and Education Programs in Rural PM",
+      "bio": "A farmer and management advisor focused on agriculture, food systems and organizational agility. Over the years, he has led initiatives with forward thinking organizations across a range of sectors like banking, app development, biotech and agriculture. After witnessing environmental challenges and participating in group studies in the EU Commission he founded Rural PM: Incubation & Management Academy in 2016. His goal is to help strengthen management practices in agri food systems, promoting value creation in a simple and regenerative way.",
+      "location": "Madrid, Spain",
+      "profile_picture": "https://sessionize.com/image/5e2c-400o400o2-4mRcTAyaykan7DqkNfwYGK.jpg"
+    },
+    "professional_info": {
+      "expertise_areas": [
+        "Agriculture, Food & Forestry",
+        "Business & Management",
+        "Environment & Cleantech",
+        "Government, Social Sector & Education",
+        "Information & Communications Technology"
+      ],
+      "topics": [],
+      "social_links": {
+        "twitter": {
+          "url": "https://twitter.com/ruralpm",
+          "handle": "@ruralpm"
+        },
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/canberkgenc/",
+          "label": "LinkedIn"
+        },
+        "instagram": {
+          "url": "https://www.instagram.com/ruralpm/",
+          "handle": "Instagram"
+        },
+        "blog": {
+          "url": "https://www.ruralpm.org/",
+          "label": "Blog"
+        }
+      }
+    },
+    "speaking_history": {
+      "sessions": [],
+      "events": [
+        {
+          "name": "Festival Agile Trends",
+          "url": "https://www.agiletrends.online",
+          "date": "September 2021",
+          "location": null,
+          "sessions": null,
+          "is_sessionize_event": true
+        },
+        {
+          "name": "Festival Agile Trends",
+          "url": "https://agiletrends.online",
+          "date": "January 2021",
+          "location": null,
+          "sessions": null,
+          "is_sessionize_event": true
+        }
+      ]
+    },
+    "metadata": {
+      "scraped_at": "2025-07-11T14:03:44.075489",
+      "source_categories": [
+        "agriculture-food-forestry",
+        "environment-and-cleantech",
+        "government-social-sector-education"
+      ],
+      "run_id": "20250711_140333"
+    }
+  }
+]

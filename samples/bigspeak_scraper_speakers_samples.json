@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "6873b37126a2e74b39bbab31",
+    "speaker_id": "elatia-abate",
+    "description": "Entrepreneur, Futurist, and Educator Empowering Human Leadership in and for the Age of AI",
+    "fee_range": "$40,001 - $50,000",
+    "first_scraped_at": "2025-07-13T13:24:01.424000",
+    "image_url": "https://www.bigspeak.com/wp-content/uploads/2023/05/onken_20200211_ElatiaAbate_104520copy-1-e1684786720271-300x277.jpg",
+    "name": "Elatia Abate",
+    "profile_url": "https://www.bigspeak.com/speakers/elatia-abate/",
+    "scraped_at": "2025-07-16T05:50:34.115000",
+    "source": "main_directory",
+    "topics": [
+      {
+        "name": "Adversity",
+        "url": "https://www.bigspeak.com/adversity/"
+      },
+      {
+        "name": "Artificial Intelligence (AI) Keynote Speakers",
+        "url": "https://www.bigspeak.com/artificial-intelligence-ai-keynote-speakers/"
+      },
+      {
+        "name": "Business Speakers",
+        "url": "https://www.bigspeak.com/business-speakers/"
+      }
+    ]
+  },
+  {
+    "_id": "6873b37126a2e74b39bbab33",
+    "speaker_id": "jim-abbott",
+    "description": "Former Major League Baseball Pitcher",
+    "fee_range": "Please Inquire",
+    "first_scraped_at": "2025-07-13T13:24:01.426000",
+    "image_url": "https://www.bigspeak.com/wp-content/uploads/2017/08/jim-abbott-stadium-e1503958549907-284x300.jpg",
+    "name": "Jim Abbott",
+    "profile_url": "https://www.bigspeak.com/speakers/jim-abbott/",
+    "scraped_at": "2025-07-16T05:50:34.115000",
+    "source": "main_directory",
+    "topics": [
+      {
+        "name": "Baseball and MLB Keynote Speakers",
+        "url": "https://www.bigspeak.com/baseball-mlb-keynote-speakers/"
+      },
+      {
+        "name": "Inspirational Keynote Speakers",
+        "url": "https://www.bigspeak.com/inspirational-keynote-speakers/"
+      },
+      {
+        "name": "Motivational Speakers",
+        "url": "https://www.bigspeak.com/motivational-speakers/"
+      }
+    ]
+  },
+  {
+    "_id": "6873b37126a2e74b39bbab35",
+    "speaker_id": "yassmin-abdel-magied",
+    "description": "Top Diversity Keynote Speaker, Sudanese-Australian writer, broadcaster and award-winning social advocate with a background in mechanical engineering",
+    "fee_range": "Please Inquire",
+    "first_scraped_at": "2025-07-13T13:24:01.426000",
+    "image_url": "https://www.bigspeak.com/wp-content/uploads/2017/08/201502_YassminW-e1504036338899-242x300.png",
+    "name": "Yassmin Abdel-Magied",
+    "profile_url": "https://www.bigspeak.com/speakers/yassmin-abdel-magied/",
+    "scraped_at": "2025-07-16T05:50:34.115000",
+    "source": "main_directory",
+    "topics": [
+      {
+        "name": "Diversity, Equity & Inclusion Keynote Speakers",
+        "url": "https://www.bigspeak.com/diversity-keynote-speakers/"
+      },
+      {
+        "name": "Global Issues Keynote Speakers",
+        "url": "https://www.bigspeak.com/global-issues-keynote-speakers/"
+      },
+      {
+        "name": "Inspirational Keynote Speakers",
+        "url": "https://www.bigspeak.com/inspirational-keynote-speakers/"
+      }
+    ]
+  },
+  {
+    "_id": "6873b37126a2e74b39bbab37",
+    "speaker_id": "kevin-abdulrahman",
+    "description": "Motivational + Leadership Speaker to Fortune 500 Companies, Public Speaking Coach, & Success Expert",
+    "fee_range": "Please Inquire",
+    "first_scraped_at": "2025-07-13T13:24:01.427000",
+    "image_url": "https://www.bigspeak.com/wp-content/uploads/2013/05/Kevin-Abdulrahman-300x200.jpg",
+    "name": "Kevin Abdulrahman",
+    "profile_url": "https://www.bigspeak.com/speakers/kevin-abdulrahman/",
+    "scraped_at": "2025-07-16T05:50:34.116000",
+    "source": "main_directory",
+    "topics": [
+      {
+        "name": "Entrepreneur Keynote Speakers",
+        "url": "https://www.bigspeak.com/entrepreneur-keynote-speakers/"
+      },
+      {
+        "name": "Innovation Keynote Speakers",
+        "url": "https://www.bigspeak.com/innovation-keynote-speakers/"
+      },
+      {
+        "name": "Leadership Keynote Speakers",
+        "url": "https://www.bigspeak.com/leadership-keynote-speakers/"
+      }
+    ]
+  },
+  {
+    "_id": "6873b37126a2e74b39bbab39",
+    "speaker_id": "mariangela-m-abeo",
+    "description": "Mental Health Advocate & Creator of the Faces of Fortitude Movement",
+    "fee_range": "$10,001 - $20,000",
+    "first_scraped_at": "2025-07-13T13:24:01.427000",
+    "image_url": "https://www.bigspeak.com/wp-content/uploads/2015/10/3.8-Brand-Photo-e1659473448336-300x300.jpeg",
+    "name": "Mariangela \u201cM\u201d Abeo",
+    "profile_url": "https://www.bigspeak.com/speakers/mariangela-m-abeo/",
+    "scraped_at": "2025-07-16T05:50:34.116000",
+    "source": "main_directory",
+    "topics": [
+      {
+        "name": "Activist Keynote Speakers",
+        "url": "https://www.bigspeak.com/activism-keynote-speakers/"
+      },
+      {
+        "name": "Arts & Culture Keynote Speakers",
+        "url": "https://www.bigspeak.com/arts-culture-keynote-speakers/"
+      },
+      {
+        "name": "Health and Wellness Keynote Speakers",
+        "url": "https://www.bigspeak.com/health-and-wellness-keynote-speakers/"
+      }
+    ]
+  }
+]
